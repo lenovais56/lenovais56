@@ -1,4 +1,4 @@
-### Hello world! Eu sou Leandro Novais!
+# Hello world!
 
 <div align="center">
   <a href="https://github.com/lenovais56">
