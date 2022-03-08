@@ -1,8 +1,4 @@
-### Olá! Eu sou o Leandro Novais
-
-- 🔭 Hoje estou focado nos estudos para a tão sonhada transição de carreira 
-- 🌱 Estudando JavaScript, HTML e CSS
-- 😄 Pronouns: ele/dele
+### Hello world! Eu sou Leandro Novais!
 
 <div align="center">
   <a href="https://github.com/lenovais56">
