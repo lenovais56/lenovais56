@@ -1,4 +1,4 @@
-# Bem vindo, eu sou Leandro Novais!
+# Olá, eu sou Leandro Novais!
 # Desenvolvedor Front End
 
 <div align="center">
