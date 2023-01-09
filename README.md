@@ -24,9 +24,7 @@
   <a href = "mailto:leandro_novais56@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href = "https://wa.me/5511953671825"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
                                                                                                                                                    
-##
-                                                                                                                                                   
- [![trophy](https://github-profile-trophy.vercel.app/?username=lenovais56&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)                                                                                                                                                  
+##                                                                                                                   
                                                                                                                                                    
  ![Snake animation](https://github.com/lenovais56/lenovais56/blob/output/github-contribution-grid-snake.svg)
  
